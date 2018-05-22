@@ -1,4 +1,4 @@
-# MEAN-App(Doctor-App)
+# MEAN-App(MovieApp)
 Complete Crud application in MEAN Stack
 
 
